@@ -1,0 +1,22 @@
+<HTML>
+<HEAD>
+<TITLE>MY FIRST WEBPAGE</TITLE>
+</HEAD>
+<body style="background-image: url('KULOGO.jpg');">
+<H1>WELCOME TO MY WEBPAGE</H1>
+<h1>OUR MENU</h1>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+<H2>I LIKE WEB DESIGNING</H2>
+<P>THIS IS MY FIRST PARAGRAPH OF TEXT!</P>
+<A HREF="https://www.ku.ac.ke">VISIT KENYATTA UNIVERSITY</A>
+<h3>Image</h3>
+<img src="LUMUMBA 1.jpg" width="400" height="300">
+
+
+</IMAGE>
+</BODY>
+</HTML>
